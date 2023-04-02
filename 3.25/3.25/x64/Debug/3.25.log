@@ -1,0 +1,3 @@
+﻿  test.c
+D:\vs练习\3.25\3.25\test.c(253,8): warning C4244: “函数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  3.25.vcxproj -> D:\vs练习\3.25\x64\Debug\3.25.exe
